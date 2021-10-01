@@ -1,0 +1,7 @@
+C:\Users\nando\Source\Repos\Motored Vehicle\Motored Vehicle\obj\Debug\Motored Vehicle.csprojAssemblyReference.cache
+C:\Users\nando\Source\Repos\Motored Vehicle\Motored Vehicle\obj\Debug\Motored Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\nando\Source\Repos\Motored Vehicle\Motored Vehicle\bin\Debug\Motored Vehicle.exe.config
+C:\Users\nando\Source\Repos\Motored Vehicle\Motored Vehicle\bin\Debug\Motored Vehicle.exe
+C:\Users\nando\Source\Repos\Motored Vehicle\Motored Vehicle\bin\Debug\Motored Vehicle.pdb
+C:\Users\nando\Source\Repos\Motored Vehicle\Motored Vehicle\obj\Debug\Motored Vehicle.exe
+C:\Users\nando\Source\Repos\Motored Vehicle\Motored Vehicle\obj\Debug\Motored Vehicle.pdb

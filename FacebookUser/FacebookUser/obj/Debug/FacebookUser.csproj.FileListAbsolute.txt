@@ -1,0 +1,7 @@
+C:\Users\nando\Source\Repos\FacebookUser\FacebookUser\bin\Debug\FacebookUser.exe.config
+C:\Users\nando\Source\Repos\FacebookUser\FacebookUser\bin\Debug\FacebookUser.exe
+C:\Users\nando\Source\Repos\FacebookUser\FacebookUser\bin\Debug\FacebookUser.pdb
+C:\Users\nando\Source\Repos\FacebookUser\FacebookUser\obj\Debug\FacebookUser.csprojAssemblyReference.cache
+C:\Users\nando\Source\Repos\FacebookUser\FacebookUser\obj\Debug\FacebookUser.csproj.CoreCompileInputs.cache
+C:\Users\nando\Source\Repos\FacebookUser\FacebookUser\obj\Debug\FacebookUser.exe
+C:\Users\nando\Source\Repos\FacebookUser\FacebookUser\obj\Debug\FacebookUser.pdb
